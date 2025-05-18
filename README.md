@@ -116,3 +116,5 @@ stringBuffer 可变字符串  效率低 多线程访问环境下 线程安全 �
 equals  继承自object，没有重写时比较对象地址值  和==等效  ， 重写时根据重写逻辑判断 
  
 编程题目: 反转链表
+
+https://www.nowcoder.com/practice/b58434e200a648c589ca2063f1faf58c?tpId=295&tqId=654&sourceUrl=%2Fexam%2Foj%3FquestionJobId%3D10%26subTabName%3Donline_coding_page
