@@ -1,0 +1,7 @@
+在 Java 中，线程等待和唤醒的实现手段有以下几种方式：
+Object 类下的 wait()、notify() 和 notifyAll() 方法；
+Condition 类下的 await()、signal() 和 signalAll() 方法；
+LockSupport 类下的 park() 和 unpark() 方法。
+------
+著作权归 www.javacn.site 所有
+原文链接：https://javacn.site/interview/thread/wait.html
